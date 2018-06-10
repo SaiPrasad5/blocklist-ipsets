@@ -1,0 +1,30 @@
+{
+	"ipset": "cleantalk_updated",
+	"started": 1528333305000,
+	"updated": 1528712415000,
+	"incomplete": 1,
+	"past": {
+		"hours": [ 
+			0,
+			1,
+			2,
+			3 ],
+		"ips": [ 
+			157330,
+			15697,
+			76,
+			2 ],
+		"total": 173105
+	},
+	"current": {
+		"hours": [ 
+			0,
+			1,
+			366 ],
+		"ips": [ 
+			444,
+			56,
+			0 ],
+		"total": 500
+	}
+}
